@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="assets/profile-card.png" alt="dewet@randburg" width="700">
+  <img src="profile-card.png" alt="dewet@randburg" width="700">
 </p>
