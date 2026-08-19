@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm De Wet van der Merwe
-
-// TODO
+<p align="center">
+  <img src="assets/profile-card.png" alt="dewet@randburg" width="700">
+</p>
